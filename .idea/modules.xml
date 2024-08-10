@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/before-chapter05/before-chapter05.iml" filepath="$PROJECT_DIR$/before-chapter05/before-chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05-array/chapter05-array.iml" filepath="$PROJECT_DIR$/chapter05-array/chapter05-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaproject.iml" filepath="$PROJECT_DIR$/javaproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/moudlefortest/moudlefortest.iml" filepath="$PROJECT_DIR$/moudlefortest/moudlefortest.iml" />
+    </modules>
+  </component>
+</project>
