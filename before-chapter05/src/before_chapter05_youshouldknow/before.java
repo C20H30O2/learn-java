@@ -3,7 +3,7 @@
 /**
  * ClassName: beforechapter05
  * Package: before_chapter05_youshouldknow
- * Description:由于第五章之前的java语法与C大致相同，所以不全部录入，这里只选择了部分重要的内容
+ * Description:原本自己对着网课录入重点内容 已经录到了第五章 但是由于失误操作使得原来自己录入的.java文件丢失  所以直接导入了老师写的那一份代码
  *
  * @Author C20H30O2
  * @Create 2024/8/10 15:59

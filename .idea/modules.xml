@@ -3,7 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/before-chapter05/before-chapter05.iml" filepath="$PROJECT_DIR$/before-chapter05/before-chapter05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter02/chapter02.iml" filepath="$PROJECT_DIR$/chapter02/chapter02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter03/chapter03.iml" filepath="$PROJECT_DIR$/chapter03/chapter03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter04/chapter04.iml" filepath="$PROJECT_DIR$/chapter04/chapter04.iml" />
       <module fileurl="file://$PROJECT_DIR$/chapter05-array/chapter05-array.iml" filepath="$PROJECT_DIR$/chapter05-array/chapter05-array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter05_array_teacher/chapter05_array_teacher.iml" filepath="$PROJECT_DIR$/chapter05_array_teacher/chapter05_array_teacher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter06-objectoriented/chapter06-objectoriented.iml" filepath="$PROJECT_DIR$/chapter06-objectoriented/chapter06-objectoriented.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaproject.iml" filepath="$PROJECT_DIR$/javaproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/moudlefortest/moudlefortest.iml" filepath="$PROJECT_DIR$/moudlefortest/moudlefortest.iml" />
     </modules>

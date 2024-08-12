@@ -1,6 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/chapter02/AriExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/AriExer1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/AriTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/BinaryTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/BitExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/BitTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/CompareTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/ConditionExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/ConditionTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/FloatDoubleExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/FloatDoubleExer1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/IdentifierTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/LogicExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/LogicTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/SetValueTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/StringExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/StringExer1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/StringTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/VariableTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/VariableTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/VariableTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/VariableTest3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter02/VariableTest4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/BreakContinueTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/DoWhileTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/DoWhileTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForForTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForWhileTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ForWhileTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/IfElseTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/IfElseTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/IfElseTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/NineNineTable.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/PrimeNumberTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/PrimeNumberTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/PrimeNumberTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/RandomTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ScannerExer.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/ScannerTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/SwitchCaseTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/SwitchCaseTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/SwitchCaseTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/WhileTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/WhileTest1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter03/src/WhileTest2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter04/src/com/atguigu/account/GuLiAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/chapter04/src/com/atguigu/util/Utility.java" charset="GBK" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

@@ -1,7 +1,7 @@
 /**
  * ClassName: Test01
  * Package: PACKAGE_NAME
- * Description:
+ * Description:记录一些快捷方式和常用方法
  *
  * @Author C20H30O2
  * @Create 2024/8/9 20:00
@@ -28,6 +28,11 @@ public class Test01 {
 
             for (int i = 0; i < d.length; i++) { //fori回车快速生成for循环结构
                 System.out.println(d[i]);}
+
+
+            /**
+             *  打出/**之后回车可以快速生成文档注释
+             */
 
 
         }
